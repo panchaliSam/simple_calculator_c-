@@ -1,0 +1,14 @@
+D:\Panchali Samarasinghe\C#\Calculator\Calculator\bin\Debug\net8.0\Calculator.exe
+D:\Panchali Samarasinghe\C#\Calculator\Calculator\bin\Debug\net8.0\Calculator.deps.json
+D:\Panchali Samarasinghe\C#\Calculator\Calculator\bin\Debug\net8.0\Calculator.runtimeconfig.json
+D:\Panchali Samarasinghe\C#\Calculator\Calculator\bin\Debug\net8.0\Calculator.dll
+D:\Panchali Samarasinghe\C#\Calculator\Calculator\bin\Debug\net8.0\Calculator.pdb
+D:\Panchali Samarasinghe\C#\Calculator\Calculator\obj\Debug\net8.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Panchali Samarasinghe\C#\Calculator\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfoInputs.cache
+D:\Panchali Samarasinghe\C#\Calculator\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfo.cs
+D:\Panchali Samarasinghe\C#\Calculator\Calculator\obj\Debug\net8.0\Calculator.csproj.CoreCompileInputs.cache
+D:\Panchali Samarasinghe\C#\Calculator\Calculator\obj\Debug\net8.0\Calculator.dll
+D:\Panchali Samarasinghe\C#\Calculator\Calculator\obj\Debug\net8.0\refint\Calculator.dll
+D:\Panchali Samarasinghe\C#\Calculator\Calculator\obj\Debug\net8.0\Calculator.pdb
+D:\Panchali Samarasinghe\C#\Calculator\Calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
+D:\Panchali Samarasinghe\C#\Calculator\Calculator\obj\Debug\net8.0\ref\Calculator.dll
